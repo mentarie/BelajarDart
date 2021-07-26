@@ -1,3 +1,5 @@
 void main(List<String> arguments) {
-  print('Hello world!');
+  var name = 'Mentari';
+  print('Hello $name');
+  print('1+1= ${1+1}');
 }
